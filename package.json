@@ -24,7 +24,7 @@
     "react-native-largelist-v3": "^3.0.14",
     "react-native-navigation": "^2.22.3",
     "react-native-pull-refresh": "^1.0.0",
-    "react-native-reanimated": "^1.1.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-root-toast": "^3.1.2",
     "react-native-spring-scrollview": "^2.0.22",
     "react-native-vector-icons": "^6.6.0",
